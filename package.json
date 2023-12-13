@@ -1,0 +1,20 @@
+{
+  "name": "task-08",
+  "version": "1.0.0",
+  "description": "task-08  description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "bcrypt": "^5.0.1",
+    "password-validator": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "21pwdsc.wp_fall23_Task-8"
+  },
+  "author": "Imad Khan",
+  "license": "ISC"
+}
